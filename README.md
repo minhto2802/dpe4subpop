@@ -49,7 +49,7 @@ feature space.
 
 --- 
 
-## 🚀 Installation
+## Installation
 
 First, make sure you have an up-to-date packaging environment:
 
@@ -63,7 +63,7 @@ Then install `dpe` directly from PyPI:
 pip install dpe
 ```
 
-## 🎯 Quick Demo
+## Quick Demo
 
 ```python 
 from dpe import DPE
@@ -88,8 +88,8 @@ if __name__ == '__main__':
 - `feats_val.npy`
 - `feats_test.npy`
 
-👉 For a full list of configurable options, refer to the `Args` class inside `src/dpe/core.py`.  
-👉 A step-by-step demonstration is available in `notebooks/03_demo.ipynb`.
+ For a full list of configurable options, refer to the `Args` class inside `src/dpe/core.py`.  
+ A step-by-step demonstration is available in `notebooks/03_demo.ipynb`.
 
 ---
 
